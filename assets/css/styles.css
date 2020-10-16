@@ -10,6 +10,12 @@ h2{
   color: #0ec2b8;
   padding: 10px;
 }
+h5{
+  color: #4183c2;
+}
+h6{
+  font-weight: bold;
+}
 
 img{
   float: left;
@@ -29,7 +35,8 @@ font-size: large;
 
 .welcome p{
   font-size: larger;
-  color: deeppink;
+  color: #4183c2;
+  font-weight: bold;
 }
 
 .small{
@@ -38,9 +45,9 @@ font-size: large;
 p{
   color: #464646;
 }
-.box1{
-margin:1px;
-border: 1px solid #464646;
-box-sizing: border-box;
-
+.link_deco{
+ color: #4183c2; 
+font-size: xx-large;
+text-align: center;
+text-decoration: underline;
 }
