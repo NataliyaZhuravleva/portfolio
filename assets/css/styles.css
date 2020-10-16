@@ -14,6 +14,23 @@ img{
   margin: 10px;
 }
 
-.quotation{
-text-align: right;
+.cursive {
+font-family: cursive;
+font-size: large;
+}
+
+.centering{
+  text-align: right;
+}
+
+.welcome p{
+  font-size: larger;
+  color: deeppink;
+}
+
+.small{
+  font-family: cursive;
+}
+p{
+  color: #464646;
 }
