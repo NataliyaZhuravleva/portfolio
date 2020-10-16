@@ -1,0 +1,19 @@
+body{
+  background-color: #ebebeb;
+}
+h1{
+  color: #0ec2b8;
+  text-align: center;
+  padding: 20px;
+}
+
+img{
+  float: left;
+  padding: 1px;
+  border: 1px solid #464646;
+  margin: 10px;
+}
+
+.quotation{
+text-align: right;
+}

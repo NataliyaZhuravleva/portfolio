@@ -10,8 +10,8 @@ _This is my portfolio webpage. Later, this webpage will act as the landing page 
 
 ## Setup/Installation Requirements
 
-* _Visit https://nataliyazhuravleva.github.io/portfolio to view webpage, or_
-* _Navigate to my [portfolio repo](https://github.com/NataliyaZhuravleva/portfolio) at https://github.com/NataliyaZhuravleva/portfolio_ to view the project files and commits
+* _Visit https://nataliyazhuravleva.github.io/portfolio to view webpage on GitHub pages, or_
+* _Navigate to my [portfolio repo](https://github.com/NataliyaZhuravleva/portfolio) at https://github.com/NataliyaZhuravleva/portfolio_ to view the project files and commits.
 
 
 ## Known Bugs
