@@ -6,6 +6,10 @@ h1{
   text-align: center;
   padding: 20px;
 }
+h2{
+  color: #0ec2b8;
+  padding: 10px;
+}
 
 img{
   float: left;
@@ -33,4 +37,10 @@ font-size: large;
 }
 p{
   color: #464646;
+}
+.box1{
+margin:1px;
+border: 1px solid #464646;
+box-sizing: border-box;
+
 }
